@@ -808,6 +808,7 @@ html.lb-disable-scrolling {
   padding-top: 20px;
   box-sizing: border-box;
   text-align: center;
+  color: #4d1abd;
 }
 #contact .form > div{
   position: relative;
