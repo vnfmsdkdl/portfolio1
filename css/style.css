@@ -599,14 +599,8 @@ ul.tabs > li.current{
   margin-top: -10px;
 }
 
+
 /* tab2 */
-#tab2 > a{
-  position: absolute;
-  top: 150px;
-}
-
-
-/* tab3 */
 .example-image{
   margin-left: 153.333px;
   margin-bottom: 33px;
@@ -733,11 +727,11 @@ html.lb-disable-scrolling {
   font-size: 20px;
   color: #00ffcb;
 }
-/* tab4 */
-#tab4 > img:nth-child(7),
-#tab4 > img:nth-child(8),
-#tab4 > img:nth-child(9),
-#tab4 > img:nth-child(10){
+/* tab3 */
+#tab3 > img:nth-child(7),
+#tab3 > img:nth-child(8),
+#tab3 > img:nth-child(9),
+#tab3 > img:nth-child(10){
   margin-bottom: 0;
 }
 .card{
