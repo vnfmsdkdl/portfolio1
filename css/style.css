@@ -600,9 +600,11 @@ ul.tabs > li.current{
 }
 
 /* tab2 */
-#tab2 > a{
+#tab2 > img{
   position: absolute;
   top: 150px;
+  left: 190px;
+  box-shadow: 10px 12px 7px #300f7a;
 }
 
 /* tab3 */
